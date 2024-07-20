@@ -60,6 +60,7 @@ set showcmd
 
 set nobackup
 set noswapfile
+set noundofile
 
 " Searching
 nnoremap / /\v
@@ -107,6 +108,7 @@ Plug 'lervag/vimtex'
 Plug 'neoclide/coc-vimtex'
 Plug 'vim-airline/vim-airline'
 Plug 'sheerun/vim-polyglot'
+Plug 'w0rp/ale'
 
 call plug#end()
 
