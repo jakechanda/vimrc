@@ -77,6 +77,10 @@ nnoremap <F1> :set invfullscreen<CR>
 vnoremap <F1> :set invfullscreen<CR>
 " Textmate holdouts
 
+" Set o to o + Escape key
+nnoremap o o<ESC>
+nnoremap o O<ESC>
+
 " Formatting
 map <leader>q gqip
 " Visualize tabs and newlines
