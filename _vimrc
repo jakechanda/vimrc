@@ -113,6 +113,7 @@ Plug 'neoclide/coc-vimtex'
 Plug 'vim-airline/vim-airline'
 Plug 'sheerun/vim-polyglot'
 Plug 'w0rp/ale'
+Plug 'altercation/vim-colors-solarized'
 
 call plug#end()
 
