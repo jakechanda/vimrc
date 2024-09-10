@@ -79,7 +79,7 @@ vnoremap <F1> :set invfullscreen<CR>
 
 " Set o to o + Escape key
 nnoremap o o<ESC>
-nnoremap o O<ESC>
+nnoremap O O<ESC>
 
 " Formatting
 map <leader>q gqip
