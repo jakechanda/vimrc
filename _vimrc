@@ -114,7 +114,11 @@ Plug 'vim-airline/vim-airline'
 Plug 'sheerun/vim-polyglot'
 Plug 'w0rp/ale'
 Plug 'altercation/vim-colors-solarized'
-
+Plug 'godlygeek/tabular'
+Plug 'vim-pandoc/vim-pandoc'
+Plug 'vim-pandoc/vim-pandoc-syntax'
+Plug 'preservim/vim-markdown'
+Plug 'vimwiki/vimwiki'
 call plug#end()
 
 
